@@ -76,8 +76,19 @@ This could involve looking into sub-sectors like software, hardware, cloud compu
 <h2 id="quick-glance">Quick Glance</h2>
 <!-- Content for Quick Glance -->
 
+
+
+
+
 <h2 id="steps">Steps</h2>
 <!-- Content for Steps -->
+
+
+
+
+
+
+
 
 <h2 id="end-goal">End Goal</h2>
 <!-- Content for End Goal -->
@@ -92,28 +103,6 @@ This could involve looking into sub-sectors like software, hardware, cloud compu
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This could involve looking into sub-sectors like software, hardware, cloud computing, semiconductors, etc. We wil use FinViz for market screening.
-
-<ul>
-    <li><strong>Market Capitalization:</strong> Larger companies tend to be less volatile, whereas smaller cap companies can be riskier but offer higher growth potential.</li>
-    <li><strong>Volatility:</strong> Look for stocks with higher beta values, indicating higher volatility compared to the market.</li>
-    <li><strong>Growth Metrics:</strong> High growth in revenue, earnings, or forecasts can indicate risk but also potential for high returns.</li>
-    <li><strong>Financial Health:</strong> Assess the debt levels, cash flow, and profitability ratios. Riskier stocks might operate at a loss or have high debt levels.</li>
-</ul>
 
 
 </body>
