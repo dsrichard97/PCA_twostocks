@@ -8,7 +8,7 @@
 
 <!-- Center Banner -->
 <div align="center">
-    <img src="sent.jpg" alt="Principal Component Analysis" style="width:auto; height:auto;" allow="autoplay">
+    <img src="2.jpg" alt="Principal Component Analysis" style="width:auto; height:auto;" allow="autoplay">
     <h1>Small Cap Principal Component Analysis</h1>
 </div>
 
