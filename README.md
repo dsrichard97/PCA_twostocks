@@ -34,35 +34,90 @@
 <div>
     <h2>Table of Contents</h2>
     <ul>
-        <li><a href="#how-to" target="_parent">Getting Started</a></li>
+        <li><a href="#getting-started" target="_parent">Getting Started</a></li>
         <li><a href="#data-source">Data Source</a></li>
-        <li><a href="#glance">Quick Glance</a></li>
+        <li><a href="#quick-glance">Quick Glance</a></li>
         <li><a href="#steps">Steps</a></li>
-        <li><a href="#motivation">End Goal</a></li>
+        <li><a href="#end-goal">End Goal</a></li>
+        <li><a href="#financial-screening">Financial Screening</a></li>
     </ul>
 </div>
 
-<h1>Principal Component Analysis (PCA) - Small Cap</h1>
+<!-- Content Sections -->
+
+<h2 id="getting-started">Getting Started</h2>
+<!-- Content for Getting Started -->
+<h3>Principal Component Analysis (PCA) - Small Cap</h3>
 
 <p>Principal component analysis (PCA) allows us to summarize and to visualize the information in a data set containing individuals/observations described by multiple inter-correlated quantitative variables. Each variable could be considered as a different dimension. If you have more than 3 variables in your data sets, it could be very difficult to visualize a multi-dimensional hyperspace.</p>
 
-<h2>Motivation:</h2>
+<h3>Motivation:</h3>
 
 <p>Microsoft Q2 2024 Earnings Call Transcript suggested that Azure has been a primary source for increase in Revenue and as a result AMD and NVIDA have been able to accelerate AI.</p>
 
-<h2>Focus:</h2>
+<h3>Focus:</h3>
 
 <p>Be able to generate list that can reduce the best fits three components in Finance in terms of Market Cap, Volatility, Growth Metrics, and Financial Health. Our primary concern is to look at two risk stocks.</p>
 
-<h2>Financial Screening:</h2>
+<h2 id="data-source">Data Source</h2>
+<!-- Content for Data Source -->
+<h3 id="financial-screening">Financial Screening</h3>
+<!-- Content for Financial Screening -->
+This could involve looking into sub-sectors like software, hardware, cloud computing, semiconductors, etc. We wil use FinViz for market screening.
 
-<p>This could involve looking into sub-sectors like software, hardware, cloud computing, semiconductors, etc. We will use FinViz for market screening.</p>
+<ul>
+    <li><strong>Market Capitalization:</strong> Larger companies tend to be less volatile, whereas smaller cap companies can be riskier but offer higher growth potential.</li>
+    <li><strong>Volatility:</strong> Look for stocks with higher beta values, indicating higher volatility compared to the market.</li>
+    <li><strong>Growth Metrics:</strong> High growth in revenue, earnings, or forecasts can indicate risk but also potential for high returns.</li>
+    <li><strong>Financial Health:</strong> Assess the debt levels, cash flow, and profitability ratios. Riskier stocks might operate at a loss or have high debt levels.</li>
+</ul>
+
+
+
+
+<h2 id="quick-glance">Quick Glance</h2>
+<!-- Content for Quick Glance -->
+
+<h2 id="steps">Steps</h2>
+<!-- Content for Steps -->
+
+<h2 id="end-goal">End Goal</h2>
+<!-- Content for End Goal -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This could involve looking into sub-sectors like software, hardware, cloud computing, semiconductors, etc. We wil use FinViz for market screening.
+
+<ul>
+    <li><strong>Market Capitalization:</strong> Larger companies tend to be less volatile, whereas smaller cap companies can be riskier but offer higher growth potential.</li>
+    <li><strong>Volatility:</strong> Look for stocks with higher beta values, indicating higher volatility compared to the market.</li>
+    <li><strong>Growth Metrics:</strong> High growth in revenue, earnings, or forecasts can indicate risk but also potential for high returns.</li>
+    <li><strong>Financial Health:</strong> Assess the debt levels, cash flow, and profitability ratios. Riskier stocks might operate at a loss or have high debt levels.</li>
+</ul>
+
 
 </body>
 </html>
-This could involve looking into sub-sectors like software, hardware, cloud computing, semiconductors, etc. We wil use FinViz for market screening.
 
-- Market Capitalization: Larger companies tend to be less volatile, whereas smaller cap companies can be riskier but offer higher growth potential.
-- Volatility: Look for stocks with higher beta values, indicating higher volatility compared to the market.
-- Growth Metrics: High growth in revenue, earnings, or forecasts can indicate risk but also potential for high returns.
-- Financial Health: Assess the debt levels, cash flow, and profitability ratios. Riskier stocks might operate at a loss or have high debt levels.
