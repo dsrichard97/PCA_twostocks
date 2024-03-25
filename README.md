@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Small Cap Principal Component Analysis</title>
 </head>
 <body>
 
