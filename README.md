@@ -12,6 +12,7 @@ Be able to generate list that can reduce the best fits three componets in Financ
 
 
 ## Financial Screening: 
+This could involve looking into sub-sectors like software, hardware, cloud computing, semiconductors, etc.
 
 - Market Capitalization: Larger companies tend to be less volatile, whereas smaller cap companies can be riskier but offer higher growth potential.
 - Volatility: Look for stocks with higher beta values, indicating higher volatility compared to the market.
