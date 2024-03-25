@@ -70,6 +70,11 @@ This could involve looking into sub-sectors like software, hardware, cloud compu
     <li><strong>Financial Health:</strong> Assess the debt levels, cash flow, and profitability ratios. Riskier stocks might operate at a loss or have high debt levels.</li>
 </ul>
 
+<!-- Center Banner -->
+<div align="center">
+    <img src="2.jpg" alt="Principal Component Analysis" style="width:auto; height:auto;" allow="autoplay">
+    <h1>Small Cap Principal Component Analysis</h1>
+</div>
 
 
 
