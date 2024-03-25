@@ -72,7 +72,7 @@ This could involve looking into sub-sectors like software, hardware, cloud compu
 
 <!-- Center Banner -->
 <div align="center">
-    <img src="fin.jpg" alt="Principal Component Analysis" style="width:auto; height:auto;" allow="autoplay">
+    <img src="fin.jpeg" alt="Principal Component Analysis" style="width:auto; height:auto;" allow="autoplay">
 </div>
 
 
