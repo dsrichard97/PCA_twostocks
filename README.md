@@ -47,23 +47,22 @@
 
 <h2 id="getting-started">Getting Started</h2>
 <!-- Content for Getting Started -->
-<h3>Principal Component Analysis (PCA) - Small Cap</h3>
-
-<p>Principal component analysis (PCA) allows us to summarize and to visualize the information in a data set containing individuals/observations described by multiple inter-correlated quantitative variables. Each variable could be considered as a different dimension. If you have more than 3 variables in your data sets, it could be very difficult to visualize a multi-dimensional hyperspace.</p>
-
 <h3>Motivation:</h3>
 
 <p>Microsoft Q2 2024 Earnings Call Transcript suggested that Azure has been a primary source for increase in Revenue and as a result AMD and NVIDA have been able to accelerate AI.</p>
 
-<h3>Focus:</h3>
+<h3>Principal Component Analysis (PCA) - Small Cap</h3>
 
+<p>Principal component analysis (PCA) allows us to summarize and to visualize the information in a data set containing individuals/observations described by multiple inter-correlated quantitative variables. Each variable could be considered as a different dimension. If you have more than 3 variables in your data sets, it could be very difficult to visualize a multi-dimensional hyperspace. In other words, a dimension reduction.</p>
+
+<h3>Focus:</h3>
 <p>Be able to generate list that can reduce the best fits three components in Finance in terms of Market Cap, Volatility, Growth Metrics, and Financial Health. Our primary concern is to look at two risk stocks.</p>
 
 <h2 id="data-source">Data Source</h2>
 <!-- Content for Data Source -->
-<h3 id="financial-screening">Financial Screening</h3>
+<h3 id="financial-screening">Financial Screening - Fin Viz</h3>
 <!-- Content for Financial Screening -->
-This could involve looking into sub-sectors like software, hardware, cloud computing, semiconductors, etc. We wil use FinViz for market screening.
+This could involve looking into sub-sectors like software, hardware, cloud computing, semiconductors, etc. We wil use FinViz for market screening. For more information about FinViz: https://finviz.com/screener.ashx?v=141&f=cap_small,sec_technology,sh_avgvol_o1000
 
 <ul>
     <li><strong>Market Capitalization:</strong> Larger companies tend to be less volatile, whereas smaller cap companies can be riskier but offer higher growth potential.</li>
