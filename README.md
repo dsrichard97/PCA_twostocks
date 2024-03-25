@@ -73,7 +73,6 @@ This could involve looking into sub-sectors like software, hardware, cloud compu
 <!-- Center Banner -->
 <div align="center">
     <img src="fin.jpg" alt="Principal Component Analysis" style="width:auto; height:auto;" allow="autoplay">
-    <h1>Small Cap Principal Component Analysis</h1>
 </div>
 
 
