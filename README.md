@@ -13,4 +13,7 @@ Be able to generate list that can reduce the best fits three componets in Financ
 
 ## Financial Screening: 
 
-- 
+- Market Capitalization: Larger companies tend to be less volatile, whereas smaller cap companies can be riskier but offer higher growth potential.
+- Volatility: Look for stocks with higher beta values, indicating higher volatility compared to the market.
+- Growth Metrics: High growth in revenue, earnings, or forecasts can indicate risk but also potential for high returns.
+- Financial Health: Assess the debt levels, cash flow, and profitability ratios. Riskier stocks might operate at a loss or have high debt levels.
