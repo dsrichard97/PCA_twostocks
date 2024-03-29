@@ -79,9 +79,12 @@ This could involve looking into sub-sectors like software, hardware, cloud compu
 
 <h2 id="quick-glance">Quick Glance</h2>
 <!-- Content for Quick Glance -->
+
 <div align="center">
     <img src="gif1.gif" alt="Principal Component Analysis" style="width:auto; height:auto;" allow="autoplay">
 </div>
+
+For Similar Graphs: https://plotly.com/r/pca-visualization/#visualize-pca-with-scatter3d
 
 
 
@@ -98,6 +101,7 @@ This could involve looking into sub-sectors like software, hardware, cloud compu
 
 <h2 id="end-goal">End Goal</h2>
 <!-- Content for End Goal -->
+
 <p>
     Used PCA to get the best risky penny stocks. 
 <p>
