@@ -79,7 +79,9 @@ This could involve looking into sub-sectors like software, hardware, cloud compu
 
 <h2 id="quick-glance">Quick Glance</h2>
 <!-- Content for Quick Glance -->
-
+<div align="center">
+    <img src="gif1.gif" alt="Principal Component Analysis" style="width:auto; height:auto;" allow="autoplay">
+</div>
 
 
 
