@@ -96,7 +96,9 @@ This could involve looking into sub-sectors like software, hardware, cloud compu
 
 <h2 id="end-goal">End Goal</h2>
 <!-- Content for End Goal -->
-
+<p>
+    Used PCA to get the best risky penny stocks. 
+<p>
 
 
 
