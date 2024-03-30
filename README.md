@@ -47,7 +47,7 @@
 <!-- Content for Getting Started -->
 <h3>Motivation:</h3>
 
-<p>Microsoft Q2 2024 Earnings Call Transcript suggested that Azure has been a primary source for increase in Revenue and as a result AMD and NVIDA have been able to accelerate AI.</p>
+<p>Microsoft Q2 2024 Earnings Call Transcript suggested that Azure has been a primary source for increase in Revenue and as a result AMD and NVIDA have been able to accelerate AI. For more detailed information: https://github.com/dsrichard97/SentimentAnalys</p>
 
 <h3>Principal Component Analysis (PCA) - Small Cap</h3>
 
