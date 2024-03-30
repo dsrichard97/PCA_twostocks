@@ -84,8 +84,6 @@ This could involve looking into sub-sectors like software, hardware, cloud compu
     <img src="gif1.gif" alt="Principal Component Analysis" style="width:auto; height:auto;" allow="autoplay">
 </div>
 
-For Similar Graphs: https://plotly.com/r/pca-visualization/#visualize-pca-with-scatter3d
-
 
 
 
