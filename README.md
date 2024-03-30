@@ -14,10 +14,9 @@
 <!-- Badges -->
 <div>
     <img src="https://img.shields.io/badge/PCA%2B-green" title="Principal Component Analysis">
+    <img src="https://img.shields.io/badge/R%2B-orange" title="PCA">
     <img src="https://img.shields.io/badge/R%2B-orange" title="R">
     <img src="https://img.shields.io/badge/PositCloud%2B-red" title="PositCloud">
-    <img src="https://img.shields.io/github/last-commit/dsrichard97/PCA_twostocks">
-    <img src="https://img.shields.io/github/repo-size/dsrichard97/PCA_twostocks">
 </div>
 
 <!-- Authors -->
