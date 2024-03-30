@@ -14,7 +14,6 @@
 <!-- Badges -->
 <div>
     <img src="https://img.shields.io/badge/PCA%2B-green" title="Principal Component Analysis">
-    <img src="https://img.shields.io/badge/PCA%8B-orange" title="PCA">
     <img src="https://img.shields.io/badge/R%2B-orange" title="R">
     <img src="https://img.shields.io/badge/PositCloud%2B-red" title="PositCloud">
 </div>
