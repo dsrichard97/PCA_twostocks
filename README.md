@@ -92,7 +92,7 @@ For Similar Graphs: https://plotly.com/r/pca-visualization/#visualize-pca-with-s
 <h2 id="steps">Steps</h2>
 <!-- Content for Steps -->
 
-
+For R code: http://rpubs.com/diazrichard98/1167751
 
 
 
